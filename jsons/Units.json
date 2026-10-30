@@ -14,4 +14,15 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
+[
+  {
+    "name": "Клинок Кхарн-Дора",
+    "unitType": "Melee",
+    "replaces": "Warrior",
+    "uniqueTo": "Кхарн-Дор",
+    "cost": 40,
+    "strength": 9,
+    "movement": 2,
+    "uniques": []
+  }
 ]
