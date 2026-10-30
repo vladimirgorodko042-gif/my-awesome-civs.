@@ -22,4 +22,21 @@
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
+[
+  {
+    "name": "Обсерватория Аэтерии",
+    "cost": 75,
+    "science": 3,
+    "uniqueTo": "Аэтерия",
+    "replaces": "Library",
+    "requiredTech": "Writing"
+  },
+  {
+    "name": "Ратуша Сольвейна",
+    "cost": 60,
+    "culture": 2,
+    "gold": 1,
+    "uniqueTo": "Сольвейн",
+    "replaces": "Monument"
+  }
 ]
