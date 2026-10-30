@@ -38,3 +38,52 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
 ]
+[
+  {
+    "name": "Аэтерия",
+    "leaderName": "Аврелий",
+    "adjective": ["аэтерийский", "аэтерийская", "аэтерийское"],
+    "startBias": ["Mountain"],
+    "preferredVictoryType": "Scientific",
+    "outerColor": [75, 0, 130],
+    "innerColor": [255, 215, 0],
+    "uniqueName": "Небесные наблюдатели",
+    "uniqueText": "Бесплатный [Great Scientist] при изучении [Writing]. [+2 Science] от каждой [Library].",
+    "cities": ["Аврора", "Цитадель", "Стелла", "Аквилон", "Феникс", "Вершина", "Эдем", "Люмина"],
+    "uniques": [
+      "Free [Great Scientist] appears when you discover [Writing]",
+      "[+2 Science] from every [Library]"
+    ]
+  },
+  {
+    "name": "Кхарн-Дор",
+    "leaderName": "Торгрим",
+    "adjective": ["кхарн-дорский", "кхарн-дорская", "кхарн-дорское"],
+    "startBias": ["Hills"],
+    "preferredVictoryType": "Domination",
+    "outerColor": [139, 0, 0],
+    "innerColor": [255, 140, 0],
+    "uniqueName": "Кузнецы войны",
+    "uniqueText": "[Great General] появляется на [50]% быстрее. [+15]% к силе [Military] юнитов в радиусе [2] клеток от [Great General].",
+    "cities": ["Молот", "Наковальня", "Крепость", "Горн", "Сталь", "Кровь", "Щит"],
+    "uniques": [
+      "[Great General] is earned [50]% faster",
+      "[+15]% Strength bonus for [Military] units within [2] tiles of a [Great General]"
+    ]
+  },
+  {
+    "name": "Сольвейн",
+    "leaderName": "Элеонора",
+    "adjective": ["сольвейнский", "сольвейнская", "сольвейнское"],
+    "startBias": ["Coast"],
+    "preferredVictoryType": "Cultural",
+    "outerColor": [0, 128, 128],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Хранители чудес",
+    "uniqueText": "[+15]% [Production] при строительстве [Wonder]. [+2 Culture] от каждого [World Wonder].",
+    "cities": ["Порт", "Гавань", "Бриз", "Волна", "Жемчужина", "Маяк", "Коралл"],
+    "uniques": [
+      "[+15]% [Production] when constructing [Buildings] that are [Wonder]s",
+      "[+2 Culture] from every [World Wonder]"
+    ]
+  }
